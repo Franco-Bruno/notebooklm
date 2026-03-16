@@ -1,0 +1,2 @@
+# notebooklm
+miniguia-estudos-notebooklm
